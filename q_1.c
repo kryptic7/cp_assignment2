@@ -6,7 +6,7 @@ void main()
 	{
 		for(k=1;k<i;k++)/*loop for printing initial space, before printing star*/
 		{
-		printf(" ");
+			printf(" ");
 		}
 		for(j=5;j>=i;j--)/*loop for printing star*/
 		{
